@@ -1,11 +1,13 @@
 def calculadora():
     print("¡Bienvenido a la calculadora!")
     print("Operaciones disponibles:")
-    print("1. Suma (+)")
+    #print("1. Suma (+)")
     print("2. Resta (-)")
-    print("3. Multiplicación (*)")
+
     print("4. División (/)")
-    
+    print("6. esta es una linea de prueba para la opcion salir")
+    print("7. otra prueba")
+
     while True:
         try:
             # Solicitar números
